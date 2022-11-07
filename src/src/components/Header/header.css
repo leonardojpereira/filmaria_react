@@ -1,0 +1,52 @@
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 100%;
+  height: 60px;
+  background-color: #000000;
+}
+
+.logo {
+  text-decoration: none;
+  font-size: 22px;
+  cursor: pointer;
+  color: #FFF;
+  font-weight: bold;
+}
+
+.icon {
+  color: #FFF;
+  font-size: 22px;
+  margin-right: 3px;
+}
+
+.container-fav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(63, 63, 63);
+  color: #FFF;
+  padding: 4px 8px;
+  text-decoration: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.logo-fav {
+  text-decoration: none;
+  font-size: 14px;
+  cursor: pointer;
+  color: #FFF;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.icon-fav {
+  color: yellow;
+  font-size: 14px;
+  margin-right: 3px;
+  padding-top: 2px;
+}
