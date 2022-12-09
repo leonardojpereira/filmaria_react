@@ -23,7 +23,7 @@ Projeto desenvolvido em ReactJS, inspirado pelo professor @Matheus Fraga. Trata-
 ## :link: Deploy
 
 ```
-filmariaflix.netlify.app
+https://filmariaflix.netlify.app
 ```
 
 ⌨️ with ❤️ by [Leonardo Barbosa](https://github.com/leonardojpereira) 😊
